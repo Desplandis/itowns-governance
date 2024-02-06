@@ -90,8 +90,8 @@ Members requesting or discontinuing collaboration for a one-year period will aut
 
 ### Product Committee (PC)
 The **Product Committee** (*PC*) comprises representatives from project-stakeholders
-and elected core developers.
-The PC **oversees the functional aspects and roadmap** of the project, ensuring
+and elected core developers. 
+The PC **oversees the functional aspects and [roadmap](itowns:RM))** of the project, ensuring
 alignment with defined goals and needs.
 
 #### Role of the PC
@@ -101,14 +101,14 @@ alignment with defined goals and needs.
   Strategic Committee, Scientific Committee and the Community.
   The Community needs are aggregated from pull requests, user feedback
   through issues, and project-related discussions. [TODO]
-- Manages the project roadmap (following potential arbitration by the Strategic Committee).
+- Manages the project ([roadmap](itowns:RM)) (following potential arbitration by the Strategic Committee).
 - Validates developments before their deployment in a pre-production environment.
 - Plans the version release schedule.
 
 #### Joining the PC
 The annual renewal and structure of the Product Committee are as follows:
-- Two-thirds of its members are designated by the PSC.
-- One-third is elected by the Core Developers.
+- Two-thirds of its members are designated by the PSC, corresponding to the number of member of the PSC (=nbPSC). 
+- One-third is elected by the Core Developers ( round( nbPSC/2 ) ).
 
 #### Meetings
 - Convenes **formal meetings every two months** and engages in **continuous discussion** through a
@@ -155,14 +155,14 @@ project, a demonstrated ability to produce high-quality code, and adhere to the 
 outlined in the code of conduct, CODING.md and CONTRIBUTING.md documents.
 
 Access to the validator role is subject to a double majority vote by the
-validators.
+validators. There are no member limits.
 This role is granted on an individual basis (not as part of an organization)
 It may be rescinded for rule violations or if contributions cease for a one-year
 period.
 Revocation requires a double majority vote, excluding the concerned
 individual.
 
-A Core Committer loses their rights after more than 6 months of inactivity and
+A Core Committer loses their rights after more than 6 months [RMQ : c'est pê un peu cours; pourquoi pas un an ?] of inactivity and
 may also have their membership status challenged by peers for non-compliance
 with governance and project rules (code of conduct, adherence to
 contribution rules, etc.).
@@ -172,3 +172,4 @@ contribution rules, etc.).
 [itowns]: http://www.itowns-project.org/
 [itowns:github]: https://github.com/iTowns/itowns
 [three]: https://threejs.org/
+[itowns:RM]: https://github.com/orgs/iTowns/projects/ 
