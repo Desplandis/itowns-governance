@@ -67,7 +67,7 @@ Members requesting or discontinuing collaboration for a one-year period will aut
 
 #### PSC meetings
 - Convenes **formal meetings every six months**, either in person or via video conference and remains accessible via email as required by the product or technical committees.
-- Publishes **meeting summaries** on a dedicated public channel ([iTowns:website](itowns) or [GitHub](itowns:github)).
+- Publishes **meeting summaries** on a dedicated public channel ([iTowns website](itowns) or [GitHub](itowns:github)).
 - Collaborates closely with the product committee.
 - Has the authority to **invite** other project actors to its meetings, granting them an advisory role without voting rights.
 
@@ -91,7 +91,7 @@ The annual renewal and structure of the Product Committee are as follows:
 
 #### Meetings
 - Convenes **formal meetings every two months** and engages in **continuous discussion** through a [dedicated public channel](itowns:chan).
-- Publishes **meeting summaries** on a dedicated public discussion channel ([iTowns:website](itowns) or [Github](itowns:github)).
+- Publishes **meeting summaries** on a dedicated public discussion channel ([iTowns website](itowns) or [Github](itowns:github)).
 - Has the authority to **invite** other project actors to its meetings, granting them an advisory role without voting rights.
 
 
