@@ -127,7 +127,7 @@ Revocation requires a double majority vote, excluding the concerned individual.
 A Core Committer loses their rights after more than 6 months of inactivity and may also have their membership status challenged by peers for non-compliance with governance and project rules (code of conduct, adherence to contribution rules, etc.).
 
 ## Contribution process
-See [Proposal process][./proposal.md].
+See [Proposal process](proposal.md).
 
 [coc]: https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/
 [itowns]: http://www.itowns-project.org/
