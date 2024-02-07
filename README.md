@@ -14,8 +14,7 @@ This document formalizes the **core values**, **community structure** and **gove
 ## Definitions
 - A "**User**" encompasses individual or organization using the `iTowns` framework.
 - A "**Contributor**" refers to any individual or organization actively involved in improvements to the iTowns project, whether through feature, documentation additions or bug fixes.
-- A "**Core developer**" is any contributor holding commit rights to the main
-  branch of the project.
+- A "**Core developer**" is any contributor holding commit rights to the main branch of the project.
 - A "**Stakeholder**" refers to organizations providing financial support for the growth, initiatives, and activities of the iTowns project.
   These stakeholders are responsible for all governance, funding, and institutional decisions.
 - The "**Community**" serves as an umbrella term, encompassing users, contributors, and stakeholders within the iTowns project.
@@ -25,16 +24,13 @@ This document formalizes the **core values**, **community structure** and **gove
 - iTowns is a **commons**, developed collectively by a diverse community.
   Its **open and shared nature** is **immutable**.
 - Operating as **free software** under the MIT or CeCILL-B license, it permits unrestricted reuse and modifications, with the source code readily accessible at [https://github.com/iTowns/itowns](itowns:github).
-- Contributors must adhere to the established rules and agree to the [**code of
-  conduct**](coc).
+- Contributors must adhere to the established rules and agree to the [**code of conduct**](coc).
 - **Peer reviewing** is a fundamental aspect of the project.
   Contributors can gain a more significant role by providing high-quality
   contributions within the established guidelines.
 - The community holds **sovereignty** and autonomously exercises governance over the project, free from external authority.
 - A **public roadmap** displays forthcoming developments.
-- The dynamics of the open-source project are maintained to keep it aligned with
-  **state of the art developments** in the field of 3D geospatial data
-  visualization.
+- The dynamics of the open-source project are maintained to keep it aligned with **state of the art developments** in the field of 3D geospatial data visualization.
 
 
 ## Sustainability
@@ -42,65 +38,48 @@ This document formalizes the **core values**, **community structure** and **gove
 
 
 ## Governance Organization
-Governance is structured into quickly deployable **committees**, each possessing
-**well-defined responsibilities** and a **transparent decision-making process**.
-The objective is to ensure clarity and understanding for the `iTowns` project
-community.
+Governance is structured into quickly deployable **committees**, each possessing **well-defined responsibilities** and a **transparent decision-making process**.
+The objective is to ensure clarity and understanding for the `iTowns` project community.
 
 ### Project Steering Committee (PSC)
-Comprising stakeholders providing financial support the growth, initiatives and
-activities of the iTowns project, the **Project Steering Committee** (*PSC*)
-**oversees the strategic direction** of the project.
+Comprising stakeholders providing financial support the growth, initiatives and activities of the iTowns project, the **Project Steering Committee** (*PSC*) **oversees the strategic direction** of the project.
 
 #### Role of the PSC
-- Shapes the **strategic directions** of the project in collaboration with all
-  stakeholders.
-- **Arbitrates** significant technical-functional and scientific roadmap proposals
-  submitted by the product committee.
-- Handles **relationships with external entities** such as industrial partners,
-  institutional bodies, scientific organizations and associations.
+- Shapes the **strategic directions** of the project in collaboration with all stakeholders.
+- **Arbitrates** significant technical-functional and scientific roadmap proposals submitted by the product committee.
+- Handles **relationships with external entities** such as industrial partners, institutional bodies, scientific organizations and associations.
 - Makes **decisions on budget and intellectual property** matters.
 - Oversees and approves **project communication** strategies.
-- **Establishes and executes a governance framework**, including amendment to the
-  present document, requiring a two-thirds majority approval.
+- **Establishes and executes a governance framework**, including amendment to the present document, requiring a two-thirds majority approval.
 - **Votes membership** requests within the committee.
 
 #### Joining the PSC
 Organizations seeking PSC membership must meet the following prerequisites:
 
-- **Contribute** an amount equivalent of a full-time annual commitment for
-  one year to the project.
+- **Contribute** an amount equivalent of a full-time annual commitment for one year to the project.
 - **Adhere** to project's governance rules
 - **Commit to continue collaboration** under equivalent or higher resource
 conditions for a minimum of two years.
 
-**New memberships** are subject to a simple majority vote by current PSC members,
-taking into account adherence to the values and rules of the present document.
+**New memberships** are subject to a simple majority vote by current PSC members, taking into account adherence to the values and rules of the present document.
 
 Members requesting or discontinuing collaboration for a one-year period will automatically exit the PSC.
 
 #### PSC meetings
-- Convenes **formal meetings every six months**, either in person or via video conference and remains accessible
-  via email as required by the product or technical committees.
-- Publishes **meeting summaries** on a dedicated public channel ([iTowns
-  website](itowns) or [GitHub](itowns:github)).
+- Convenes **formal meetings every six months**, either in person or via video conference and remains accessible via email as required by the product or technical committees.
+- Publishes **meeting summaries** on a dedicated public channel ([iTowns:website](itowns) or [GitHub](itowns:github)).
 - Collaborates closely with the product committee.
 - Has the authority to **invite** other project actors to its meetings, granting them an advisory role without voting rights.
 
 
 ### Product Committee (PC)
-The **Product Committee** (*PC*) comprises representatives from project-stakeholders
-and elected core developers.
-The PC **oversees the functional aspects and roadmap** of the project, ensuring
-alignment with defined goals and needs.
+The **Product Committee** (*PC*) comprises representatives from project-stakeholders and elected core developers.
+The PC **oversees the functional aspects and roadmap** of the project, ensuring alignment with defined goals and needs.
 
 #### Role of the PC
-- Ensures **project alignment** with the Community's needs and the strategic
-  directions set by the PSC for the project.
-- Organizes the collection of requirements based on information provided by the
-  Strategic Committee, Scientific Committee and the Community.
-  The Community needs are aggregated from pull requests, user feedback
-  through issues, and project-related discussions. [TODO]
+- Ensures **project alignment** with the Community's needs and the strategic directions set by the PSC for the project.
+- Organizes the collection of requirements based on information provided by the Strategic Committee, Scientific Committee and the Community.
+  The Community needs are aggregated from pull requests, user feedback through issues, and project-related discussions. [TODO]
 - Manages the project roadmap (following potential arbitration by the Strategic Committee).
 - Validates developments before their deployment in a pre-production environment.
 - Plans the version release schedule.
@@ -111,21 +90,16 @@ The annual renewal and structure of the Product Committee are as follows:
 - One-third is elected by the Core Developers.
 
 #### Meetings
-- Convenes **formal meetings every two months** and engages in **continuous discussion** through a
-  dedicated public channel (TODO, missing public channel link).
-- Publishes **meeting summaries** on a dedicated public discussion channel
-  ([iTowns website](itowns) or [Github](itowns:github)).
+- Convenes **formal meetings every two months** and engages in **continuous discussion** through a dedicated public channel (TODO, missing public channel link).
+- Publishes **meeting summaries** on a dedicated public discussion channel ([iTowns:website](itowns) or [Github](itowns:github)).
 - Has the authority to **invite** other project actors to its meetings, granting them an advisory role without voting rights.
 
 
 ### Core Developers
-- The "**Core developers**" committee comprises contribution validators holding
-  commit rights to the main branch of the project.
-  They ensures the good architecture of the project. The viability of the
-  project.
+- The "**Core developers**" committee comprises contribution validators holding commit rights to the main branch of the project.
+  They ensures the good architecture of the project. The viability of the project.
 [TODO Ils sont les gardiens du temple d'un point de vue technique]
-The Technical Committee comprises project validators, and there can be multiple
-technical committees for different project components.
+The Technical Committee comprises project validators, and there can be multiple technical committees for different project components.
 They ensures TODO.
 
 #### Role of the Technical Committee
@@ -138,34 +112,22 @@ They ensures TODO.
 - Arbitrates requests for Core Developers rights and their removal.
 
 #### Operation of the Technical Committee (could be merged with previous part)
-- Operates continuously, with responsiveness deadlines, in a dedicated public
-  discussion channel.
-- Holds meetings every two months and publishes meeting summaries via a public
-  channel on GitHub. Active contributors who are not committee members may be
-  invited.
-- Member opinions are documented for transparency and as an objective metric of
-  active participation.
+- Operates continuously, with responsiveness deadlines, in a dedicated public discussion channel.
+- Holds meetings every two months and publishes meeting summaries via a public channel on GitHub. Active contributors who are not committee members may be invited.
+- Member opinions are documented for transparency and as an objective metric ofactive participation.
 - Tracks proposed and adopted solutions.
 - Enforces the principle of cross-validation, prohibiting validators from validating their own contributions or those of their respective organizations.
 
 #### Joining the Technical Committee
 Every contributor holding commit rights to the main project is a Core Developer.
-Achieving status of Core Developer requires significant contributions to the
-project, a demonstrated ability to produce high-quality code, and adhere to the guidelines
-outlined in the code of conduct, CODING.md and CONTRIBUTING.md documents.
+Achieving status of Core Developer requires significant contributions to the project, a demonstrated ability to produce high-quality code, and adhere to the guidelines outlined in the code of conduct, CODING.md and CONTRIBUTING.md documents.
 
-Access to the validator role is subject to a double majority vote by the
-validators.
-This role is granted on an individual basis (not as part of an organization)
-It may be rescinded for rule violations or if contributions cease for a one-year
-period.
-Revocation requires a double majority vote, excluding the concerned
-individual.
+Access to the validator role is subject to a double majority vote by the Core Developers.
+This role is granted on an individual basis (not as part of an organization).
+It may be rescinded for rule violations or if contributions cease for a one-year period.
+Revocation requires a double majority vote, excluding the concerned individual.
 
-A Core Committer loses their rights after more than 6 months of inactivity and
-may also have their membership status challenged by peers for non-compliance
-with governance and project rules (code of conduct, adherence to
-contribution rules, etc.).
+A Core Committer loses their rights after more than 6 months of inactivity and may also have their membership status challenged by peers for non-compliance with governance and project rules (code of conduct, adherence to contribution rules, etc.).
 
 
 [coc]: https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/
