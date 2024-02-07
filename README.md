@@ -126,8 +126,33 @@ Revocation requires a double majority vote, excluding the concerned individual.
 
 A Core Committer loses their rights after more than 6 months of inactivity and may also have their membership status challenged by peers for non-compliance with governance and project rules (code of conduct, adherence to contribution rules, etc.).
 
+
 ## Contribution process
 See [Proposal process](proposal.md).
+
+
+## Versions
+A new version of iTowns is released every 2 months.  
+
+### Release 
+- The PC leads the release process with the Core Developpers and set a release date.
+- Tests are launched before the release of the new version:
+  + Unit tests
+  + Functional tests
+  + Client application test on the next branch
+  + Regression tests through a complete run of all examples.
+
+### Communication
+- The changelog is distributed on Github.
+- Distribution on npmjs/github:
+  + Description of the version
+  + Link to changelog
+  + Link to examples.
+
+### Roadmap Update
+- The roadmap is public and updated on a two-month cycle.
+- the project's progress is public and can be tracked at https://github.com/iTowns/itowns/projects?query=is%3Aopen.
+- Anyone can suggest adding a new feature to the roadmap through an proposal.
 
 [coc]: https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/
 [itowns]: http://www.itowns-project.org/
