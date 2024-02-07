@@ -3,7 +3,7 @@ Governance Draft (as of September 2023)
 
 ## Preamble
 iTowns is an **open-source framework** designed for the **efficient visualization, navigation, and interaction** with **multi-scale 2D and 3D geospatial data** on the **web**.
-Built on the [`three.js`](three) general-purpose 3D library, it enables advanced customization. [TODO, reformulate so we can understand that each can build his own app]
+Built on the [`three.js`](three) general-purpose 3D library, it enables users to easily build their own customized 3D geographic applications.
 
 iTowns is a **geographic commons**, developed collectively by a diverse community of contributors, comprising independent developers, public organizations, research laboratories and private companies.
 
@@ -79,7 +79,7 @@ The PC **oversees the functional aspects and roadmap** of the project, ensuring 
 #### Role of the PC
 - Ensures **project alignment** with the Community's needs and the strategic directions set by the PSC for the project.
 - Organizes the collection of requirements based on information provided by the Strategic Committee, Scientific Committee and the Community.
-  The Community needs are aggregated from pull requests, user feedback through issues, and project-related discussions. [TODO]
+- Coordinates the collection of user requirements through pull requests, user feedback, and discussions.
 - Manages the project roadmap (following potential arbitration by the Strategic Committee).
 - Validates developments before their deployment in a pre-production environment.
 - Plans the version release schedule.
@@ -90,17 +90,14 @@ The annual renewal and structure of the Product Committee are as follows:
 - One-third is elected by the Core Developers.
 
 #### Meetings
-- Convenes **formal meetings every two months** and engages in **continuous discussion** through a dedicated public channel (TODO, missing public channel link).
+- Convenes **formal meetings every two months** and engages in **continuous discussion** through a [dedicated public channel](itowns:chan).
 - Publishes **meeting summaries** on a dedicated public discussion channel ([iTowns:website](itowns) or [Github](itowns:github)).
 - Has the authority to **invite** other project actors to its meetings, granting them an advisory role without voting rights.
 
 
 ### Core Developers
-- The "**Core developers**" committee comprises contribution validators holding commit rights to the main branch of the project.
-  They ensures the good architecture of the project. The viability of the project.
-[TODO Ils sont les gardiens du temple d'un point de vue technique]
-The Technical Committee comprises project validators, and there can be multiple technical committees for different project components.
-They ensures TODO.
+The "**Core developers**" committee comprises contribution validators holding commit rights to the main branch of the project.
+They uphold adherence to the project's architectural coherence, technical viability, and oversee contributions in accordance to the roadmap.
 
 #### Role of the Technical Committee
 - **Ensures the project' sustainability** in terms of maintainability and technical debt.
@@ -133,4 +130,5 @@ A Core Committer loses their rights after more than 6 months of inactivity and m
 [coc]: https://www.contributor-covenant.org/fr/version/2/0/code_of_conduct/
 [itowns]: http://www.itowns-project.org/
 [itowns:github]: https://github.com/iTowns/itowns
+[itowns:chan]: todo
 [three]: https://threejs.org/
