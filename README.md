@@ -35,6 +35,7 @@ This document formalizes the **core values**, **community structure** and **gove
 
 ## Sustainability
 - The project identifies **key stakeholders** who contribute significantly to its sustainability across its life cycle, adhering to the governance rules defined in this document.
+  Current **key stakeholders** are given in the [membership.md](./membership.md) document.
 
 
 ## Governance Organization
