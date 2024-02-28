@@ -35,7 +35,7 @@ This document formalizes the **core values**, **community structure** and **gove
 
 ## Sustainability
 - The project identifies **key stakeholders** who contribute significantly to its sustainability across its life cycle, adhering to the governance rules defined in this document.
-  Current **key stakeholders** are given in the [membership.md](./membership.md) document.
+  Current **key stakeholders** are given in the [membership](./membership.md) document.
 
 
 ## Governance Organization
@@ -100,7 +100,7 @@ The annual renewal and structure of the Product Committee are as follows:
 The "**Core developers**" committee comprises contribution validators holding commit rights to the main branch of the project.
 They uphold adherence to the project's architectural coherence, technical viability, and oversee contributions in accordance to the roadmap.
 
-#### Role of the Technical Committee
+#### Role of the Core Developpers
 - **Ensures the project' sustainability** in terms of maintainability and technical debt.
 - Makes **decisions on technical architecture** and ensures its coherence.
 - **Monitors** ongoing **developments**.
@@ -109,14 +109,14 @@ They uphold adherence to the project's architectural coherence, technical viabil
   established technical consensuses.
 - Arbitrates requests for Core Developers rights and their removal.
 
-#### Operation of the Technical Committee (could be merged with previous part)
+#### Operation of the Core Developpers
 - Operates continuously, with responsiveness deadlines, in a dedicated public discussion channel.
 - Holds meetings every two months and publishes meeting summaries via a public channel on GitHub. Active contributors who are not committee members may be invited.
 - Member opinions are documented for transparency and as an objective metric ofactive participation.
 - Tracks proposed and adopted solutions.
 - Enforces the principle of cross-validation, prohibiting validators from validating their own contributions or those of their respective organizations.
 
-#### Joining the Technical Committee
+#### Joining the Core Developpers
 Every contributor holding commit rights to the main project is a Core Developer.
 Achieving status of Core Developer requires significant contributions to the project, a demonstrated ability to produce high-quality code, and adhere to the guidelines outlined in the code of conduct, CODING.md and CONTRIBUTING.md documents.
 
